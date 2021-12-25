@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phanijsp
+- 👋 Hi, I’m phanijsp
 - 📫 How to reach me ...  phani.jsp@gmail.com
 <a href="https://github.com/phanijsp">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=phanijsp&theme=dark&count_private=true&hide_border=true&line_height=24&show_icons=true" />
