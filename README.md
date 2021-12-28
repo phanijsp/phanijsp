@@ -6,19 +6,19 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 86 Contributions in the Year 2021
  > 
-> 📦 44.6 kB Used in GitHub's Storage 
+> 📦 73.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 32 Public Repositories 
  > 
-> 🔑 0 Private Repositories  
+> 🔑 1 Private Repository 
  > 
 **I'm an Early 🐤** 
 
@@ -63,8 +63,8 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     31 repos            ████████████████████████░   96.88% 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12%
+Java                     32 repos            ████████████████████████░   96.97% 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
 
 ```
 
