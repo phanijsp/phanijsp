@@ -2,8 +2,6 @@
 - 📫 How to reach me ...  phani.jsp@gmail.com
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2035%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47%20Thousand%20lines%20of%20code-blue)
@@ -23,22 +21,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    57 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-🌆 Daytime    77 commits     ████████░░░░░░░░░░░░░░░░░   33.77% 
-🌃 Evening    86 commits     █████████░░░░░░░░░░░░░░░░   37.72% 
-🌙 Night      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.51%
+🌞 Morning    45 commits     ██████░░░░░░░░░░░░░░░░░░░   24.86% 
+🌆 Daytime    57 commits     ███████░░░░░░░░░░░░░░░░░░   31.49% 
+🌃 Evening    77 commits     ██████████░░░░░░░░░░░░░░░   42.54% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       48 commits     █████░░░░░░░░░░░░░░░░░░░░   21.05% 
-Tuesday      38 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Wednesday    28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.28% 
-Thursday     35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.35% 
-Friday       29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
-Saturday     22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.65% 
-Sunday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.28%
+Monday       41 commits     █████░░░░░░░░░░░░░░░░░░░░   22.65% 
+Tuesday      38 commits     █████░░░░░░░░░░░░░░░░░░░░   20.99% 
+Wednesday    24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.26% 
+Thursday     21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.6% 
+Friday       20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.05% 
+Saturday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.5% 
+Sunday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.94%
 
 ```
 
