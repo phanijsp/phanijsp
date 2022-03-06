@@ -47,16 +47,17 @@ Sunday       32 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     31 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 31 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+untitled                 28 mins             ██████████████████████░░░   90.27% 
+miningmonitor            3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.73%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  31 mins             █████████████████████████   100.0%
 
 ```
 
@@ -74,5 +75,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phanijsp/phanijsp/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/03/2022 22:21:14 UTC
+ Last Updated on 06/03/2022 01:13:32 UTC
 <!--END_SECTION:waka-->
