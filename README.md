@@ -2,7 +2,7 @@
 - 📫 How to reach me ...  phani.jsp@gmail.com
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -10,9 +10,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 25 Contributions in the Year 2022
+> 🏆 27 Contributions in the Year 2022
  > 
-> 📦 74.6 kB Used in GitHub's Storage 
+> 📦 74.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -20,13 +20,13 @@
  > 
 > 🔑 1 Private Repository 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.58% 
-🌆 Daytime    59 commits     █████████░░░░░░░░░░░░░░░░   36.42% 
-🌃 Evening    67 commits     ██████████░░░░░░░░░░░░░░░   41.36% 
-🌙 Night      14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
+🌆 Daytime    58 commits     █████████░░░░░░░░░░░░░░░░   35.8% 
+🌃 Evening    66 commits     ██████████░░░░░░░░░░░░░░░   40.74% 
+🌙 Night      16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.88%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -79,5 +79,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phanijsp/phanijsp/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/04/2022 23:22:06 UTC
+ Last Updated on 10/04/2022 02:59:12 UTC
 <!--END_SECTION:waka-->
