@@ -2,6 +2,8 @@
 - 📫 How to reach me ...  phani.jsp@gmail.com
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2015%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55%20Thousand%20lines%20of%20code-blue)
@@ -45,16 +47,16 @@ Sunday       30 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-GitIgnore file           4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-aejx                     4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -72,5 +74,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phanijsp/phanijsp/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/05/2022 19:19:03 UTC
+ Last Updated on 03/05/2022 20:24:38 UTC
 <!--END_SECTION:waka-->
