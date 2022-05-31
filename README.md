@@ -2,7 +2,7 @@
 - 📫 How to reach me ...  phani.jsp@gmail.com
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -12,7 +12,7 @@
 
 > 🏆 33 Contributions in the Year 2022
  > 
-> 📦 75.0 kB Used in GitHub's Storage 
+> 📦 75.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,18 +47,16 @@ Sunday       30 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     25 mins             ████████████████████░░░░░   82.86% 
-Groovy                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.07% 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SAnD                     30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -76,5 +74,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phanijsp/phanijsp/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/05/2022 19:19:41 UTC
+ Last Updated on 31/05/2022 20:27:20 UTC
 <!--END_SECTION:waka-->
