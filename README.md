@@ -2,7 +2,7 @@
 - 📫 How to reach me ...  phani.jsp@gmail.com
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,5 +78,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phanijsp/phanijsp/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/06/2022 10:23:10 UTC
+ Last Updated on 25/06/2022 11:19:29 UTC
 <!--END_SECTION:waka-->
