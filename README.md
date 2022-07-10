@@ -2,7 +2,7 @@
 - 📫 How to reach me ...  phani.jsp@gmail.com
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -10,9 +10,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 74 Contributions in the Year 2022
+> 🏆 75 Contributions in the Year 2022
  > 
-> 📦 108.7 kB Used in GitHub's Storage 
+> 📦 108.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,9 +36,9 @@ Monday       43 commits     ██████░░░░░░░░░░░�
 Tuesday      39 commits     █████░░░░░░░░░░░░░░░░░░░░   22.29% 
 Wednesday    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.57% 
 Thursday     8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.57% 
-Friday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
+Friday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
 Saturday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
-Sunday       30 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.14%
+Sunday       31 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.71%
 
 ```
 
@@ -83,5 +83,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phanijsp/phanijsp/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/07/2022 11:18:07 UTC
+ Last Updated on 10/07/2022 12:35:40 UTC
 <!--END_SECTION:waka-->
