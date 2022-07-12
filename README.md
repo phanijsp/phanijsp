@@ -2,7 +2,7 @@
 - 📫 How to reach me ...  phani.jsp@gmail.com
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -10,7 +10,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 76 Contributions in the Year 2022
+> 🏆 77 Contributions in the Year 2022
  > 
 > 📦 108.8 kB Used in GitHub's Storage 
  > 
@@ -23,9 +23,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.57% 
+🌞 Morning    21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
 🌆 Daytime    61 commits     ████████░░░░░░░░░░░░░░░░░   34.86% 
-🌃 Evening    64 commits     █████████░░░░░░░░░░░░░░░░   36.57% 
+🌃 Evening    65 commits     █████████░░░░░░░░░░░░░░░░   37.14% 
 🌙 Night      28 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.0%
 
 ```
@@ -83,5 +83,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phanijsp/phanijsp/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/07/2022 17:25:57 UTC
+ Last Updated on 12/07/2022 18:28:17 UTC
 <!--END_SECTION:waka-->
