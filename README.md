@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49%20Thousand%20lines%20of%20code-blue)
 
@@ -12,7 +12,7 @@
 
 > 🏆 98 Contributions in the Year 2022
  > 
-> 📦 108.8 kB Used in GitHub's Storage 
+> 📦 108.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,18 +47,18 @@ Sunday       31 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     7 hrs 51 mins       ███████████████████░░░░░░   76.01% 
-XML                      2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   23.25% 
-Groovy                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
+Java                     1 hr 42 mins        ██████████████████░░░░░░░   74.01% 
+XML                      32 mins             █████░░░░░░░░░░░░░░░░░░░░   23.41% 
+Groovy                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58%
 
 🔥 Editors: 
-Android Studio           10 hrs 20 mins      █████████████████████████   100.0%
+Android Studio           2 hrs 18 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SAnD                     10 hrs 20 mins      █████████████████████████   100.0%
+SAnD                     2 hrs 18 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  10 hrs 20 mins      █████████████████████████   100.0%
+Windows                  2 hrs 18 mins       █████████████████████████   100.0%
 
 ```
 
@@ -76,5 +76,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phanijsp/phanijsp/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/07/2022 18:26:49 UTC
+ Last Updated on 23/07/2022 20:22:49 UTC
 <!--END_SECTION:waka-->
