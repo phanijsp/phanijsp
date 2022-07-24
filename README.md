@@ -47,18 +47,16 @@ Sunday       31 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 42 mins        ██████████████████░░░░░░░   74.01% 
-XML                      32 mins             █████░░░░░░░░░░░░░░░░░░░░   23.41% 
-Groovy                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           2 hrs 18 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SAnD                     2 hrs 18 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 18 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -76,5 +74,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phanijsp/phanijsp/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/07/2022 18:29:39 UTC
+ Last Updated on 24/07/2022 20:23:12 UTC
 <!--END_SECTION:waka-->
