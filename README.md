@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-400%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-404%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 221.9 kB Used in GitHub's Storage 
- > 
-> 🏆 53 Contributions in the Year 2024
+> 📦 229.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,20 +40,20 @@ Sunday                   337 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Jupyter                  9 hrs 35 mins       █████████████████████████   98.12 % 
-Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Jupyter                  10 hrs 25 mins      █████████████████████████   98.27 % 
+Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-PyCharm                  9 hrs 46 mins       █████████████████████████   100.00 % 
+PyCharm                  10 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ProjectSE                9 hrs 36 mins       █████████████████████████   98.31 % 
-SEProject                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+ProjectSE                10 hrs 26 mins      █████████████████████████   98.44 % 
+SEProject                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 💻 Operating System: 
-Linux                    9 hrs 46 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -75,5 +73,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/phanijsp/phanijsp/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2024 06:30:41 UTC
+ Last Updated on 16/05/2024 18:36:58 UTC
 <!--END_SECTION:waka-->
