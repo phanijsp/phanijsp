@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 229.0 kB Used in GitHub's Storage 
+> 📦 229.1 kB Used in GitHub's Storage 
  > 
 > 🏆 58 Contributions in the Year 2024
  > 
@@ -42,18 +42,18 @@ Sunday                   338 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Jupyter                  12 hrs 38 mins      █████████████████████████   99.21 % 
-Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Jupyter                  12 hrs 59 mins      █████████████████████████   99.97 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PyCharm                  12 hrs 44 mins      █████████████████████████   100.00 % 
+PyCharm                  12 hrs 59 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ProjectSE                12 hrs 38 mins      █████████████████████████   99.21 % 
-SEProject                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+ProjectSE                12 hrs 59 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 hrs 44 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -73,5 +73,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/phanijsp/phanijsp/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2024 01:13:13 UTC
+ Last Updated on 20/05/2024 18:37:53 UTC
 <!--END_SECTION:waka-->
