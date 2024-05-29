@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 284.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 61 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,18 +42,18 @@ Sunday                   338 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Jupyter                  5 hrs 48 mins       █████████████████████████   99.48 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Jupyter                  3 hrs 5 mins        █████████████████████████   99.02 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 50 mins       █████████████████████████   100.00 % 
+PyCharm                  3 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ProjectSE                5 hrs 16 mins       ███████████████████████░░   90.27 % 
-Torr2MovMatcher          34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+ProjectSE                2 hrs 32 mins       ████████████████████░░░░░   81.77 % 
+Torr2MovMatcher          34 mins             █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
 
 💻 Operating System: 
-Linux                    5 hrs 50 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -71,5 +73,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/phanijsp/phanijsp/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2024 18:38:52 UTC
+ Last Updated on 29/05/2024 18:37:49 UTC
 <!--END_SECTION:waka-->
