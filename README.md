@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 284.2 kB Used in GitHub's Storage 
- > 
-> 🏆 63 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,18 +40,18 @@ Sunday                   336 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 18 mins       ███████████████████░░░░░░   77.60 % 
-Java                     39 mins             ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+Kotlin                   2 hrs 18 mins       ██████████████████░░░░░░░   73.21 % 
+Java                     50 mins             ███████░░░░░░░░░░░░░░░░░░   26.79 % 
 TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Android Studio           2 hrs 58 mins       █████████████████████████   100.00 % 
+Android Studio           3 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SAnD                     2 hrs 58 mins       █████████████████████████   100.00 % 
+SAnD                     3 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -73,5 +71,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/phanijsp/phanijsp/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2024 18:37:01 UTC
+ Last Updated on 03/06/2024 18:39:38 UTC
 <!--END_SECTION:waka-->
