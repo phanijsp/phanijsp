@@ -1,17 +1,19 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 284.2 kB Used in GitHub's Storage 
  > 
+> 🏆 63 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 43 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -40,18 +42,23 @@ Sunday                   336 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 18 mins       ██████████████████░░░░░░░   73.21 % 
-Java                     50 mins             ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+Kotlin                   2 hrs 18 mins       ████████████████░░░░░░░░░   63.05 % 
+Java                     50 mins             ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+Jupyter                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Android Studio           3 hrs 9 mins        █████████████████████████   100.00 % 
+Android Studio           3 hrs 9 mins        ██████████████████████░░░   86.12 % 
+PyCharm                  30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
 
 🐱‍💻 Projects: 
-SAnD                     3 hrs 9 mins        █████████████████████████   100.00 % 
+SAnD                     3 hrs 9 mins        ██████████████████████░░░   86.12 % 
+ProjectSE                29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Torr2MovMatcher          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Operating System: 
-Linux                    3 hrs 9 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -71,5 +78,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/phanijsp/phanijsp/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2024 18:38:30 UTC
+ Last Updated on 05/06/2024 18:38:00 UTC
 <!--END_SECTION:waka-->
