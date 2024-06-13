@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-448%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 284.2 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,5 +75,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/phanijsp/phanijsp/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2024 18:18:40 UTC
+ Last Updated on 13/06/2024 18:39:13 UTC
 <!--END_SECTION:waka-->
