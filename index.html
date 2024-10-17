@@ -1,153 +1,225 @@
 <!DOCTYPE html>
-<html style="background-color: beige;" lang="en">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aditya Jagatha - Resume</title>
+    <title>Aditya Jagatha - Retro Resume</title>
+    <!-- Add Font Awesome library for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <style>
+        body {
+            font-family: "Courier New", Courier, monospace;
+            background-color: #f0f0f0;
+            color: #000;
+            margin: 0;
+            padding: 20px;
+        }
+        header, footer {
+            text-align: center;
+            border-bottom: 3px solid black;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        h1 {
+            font-size: 36px;
+            text-transform: uppercase;
+            font-weight: bold;
+            margin-bottom: 0;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+        a {
+            text-decoration: none;
+            color: black;
+            font-weight: bold;
+        }
+        h2 {
+            font-size: 24px;
+            text-transform: uppercase;
+            font-weight: bold;
+            margin-top: 30px;
+            border-bottom: 2px solid black;
+            padding-bottom: 10px;
+        }
+        .table-container {
+            overflow-x: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            border: 2px solid black;
+        }
+        th, td {
+            font-size: 16px;
+            padding: 8px;
+            text-align: left;
+            border: 2px solid black;
+        }
+        ul {
+            margin-top: 20px;
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+        footer {
+            margin-top: 30px;
+            font-size: 14px;
+            border-top: 2px solid black;
+            padding-top: 10px;
+        }
+        .section {
+            border: 3px solid black;
+            padding: 15px;
+            margin-bottom: 30px;
+        }
+        .project-icon {
+            display: inline-block;
+            /* color: white; */
+            padding: 3px 5px;
+            margin-right: 10px;
+            font-weight: bold;
+            font-size: 14px;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 28px;
+            }
+            h2 {
+                font-size: 22px;
+            }
+            p, th, td, li {
+                font-size: 14px;
+            }
+            header, footer {
+                margin-bottom: 15px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            body {
+                padding: 10px;
+            }
+            h1 {
+                font-size: 24px;
+            }
+            h2 {
+                font-size: 20px;
+            }
+            p, th, td, li {
+                font-size: 12px;
+            }
+        }
+    </style>
 </head>
 <body>
-   
+    <header>
         <h1>Aditya Jagatha</h1>
         <p>Email: <a href="mailto:phani.jsp@gmail.com">phani.jsp@gmail.com</a></p>
         <p><a href="https://github.com/phanijsp">GitHub</a> | <a href="https://www.linkedin.com/in/aditya-jagatha-548829185">LinkedIn</a></p>
-    
+    </header>
 
-    <h2>Professional Summary</h2>
-    <p>Software developer and researcher with over 3.5 years of expertise in Android development, IoT networks, and cybersecurity. Designed and implemented innovative solutions across multiple platforms and technologies.</p>
+    <div class="section">
+        <h2>Professional Summary</h2>
+        <p>Software developer and cybersecurity researcher with over 3.5 years of experience in IoT networks, Android development, and building secure applications. Passionate about innovation and creating impactful software solutions.</p>
+    </div>
 
-
-
-    <section>
+    <div class="section">
         <h2>Projects</h2>
         <ul>
-            <li><i class="fa-brands fa-android"></i> <strong><a href="https://play.google.com/store/apps/details?id=org.jsp.wide">Sand Torrent Stream & Download</a>:</strong> A robust torrent app for seamless video, music, and file streaming or downloading. This lightweight yet powerful Android app supports a wide variety of media and has a user-friendly interface for an optimal torrenting experience. It has achieved over 130,000 installs on the Google Play Store.</li>
-    
-            <li><i class="fa-brands fa-android"></i> <strong><a href="https://play.google.com/store/apps/details?id=org.deltaverse.picolauncher">Pico Launcher</a>:</strong> A minimal, lightweight Android launcher designed to boost productivity by providing a distraction-free interface. By stripping out unnecessary features, Pico Launcher helps users focus on tasks while maximizing battery life.</li>
-    
-            <li><i class="fa-brands fa-android"></i> <strong><a href="https://github.com/phanijsp/FileTransfer">FileTransferAndroid</a>:</strong> An Android app similar to ShareIT, developed to transfer files seamlessly between devices connected to the same network. It supports a variety of file types, making sharing files quick and efficient.</li>
             
-            <li><i class="fa-brands fa-android"></i> <strong><a href="https://github.com/phanijsp/circle">Circle</a>:</strong> A group chat Android application built for campus job placement cells, enabling users to communicate with multiple participants in group chats. Designed to facilitate smooth and reliable group communication.</li>
-    
-            <li><i class="fa-brands fa-android"></i> <strong><a href="https://github.com/deltaverse/SAF">SAF</a>:</strong> An Android app that helps users search and find where their favorite movies or TV shows are streaming online. It's a simple yet effective solution for navigating the vast landscape of streaming platforms.</li>
-    
-            <li><i class="fa-brands fa-android"></i> <strong>ToDo:</strong> An Android app developed to help users keep track of daily tasks. It utilizes Room Database for data storage and retrieval, offering a simple and intuitive interface for managing to-do lists.</li>
-            <li><i class="fa-brands fa-android"></i> <strong><a href="https://github.com/phanijsp/bitrate">Bitrate</a>:</strong> An Android app developed to track and monitor real-time Bitcoin prices. It offers a simple and accessible interface for cryptocurrency enthusiasts to stay updated on market trends.</li>
-    
-            <li><i class="fa-brands fa-android"></i> <strong><a href="https://github.com/deltaverse/Audio2FA">Audio2FA</a>:</strong> An Android app developed as part of a research project to integrate audio data transfer with multi-factor authentication (MFA). This innovative approach to MFA enhances security through audio-based device pairing.</li>
-    
+            
+            <li><span class="project-icon"><i class="fa-brands fa-android" style="color: #000000;"></i></span><strong><a href="https://play.google.com/store/apps/details?id=org.jsp.wide">Sand Torrent Stream & Download</a>:</strong> A robust torrent app for seamless video, music, and file streaming or downloading. This lightweight yet powerful Android app supports a wide variety of media and has a user-friendly interface for an optimal torrenting experience. It has achieved over 130,000 installs on the Google Play Store.</li>
+            <li><span class="project-icon"><i class="fa-brands fa-android" style="color: #000000;"></i></span><strong><a href="https://play.google.com/store/apps/details?id=org.deltaverse.picolauncher">Pico Launcher</a>:</strong> A minimal, lightweight Android launcher designed to boost productivity by providing a distraction-free interface. By stripping out unnecessary features, Pico Launcher helps users focus on tasks while maximizing battery life.</li>
+            <li><span class="project-icon"><i class="fa-brands fa-android" style="color: #000000;"></i></span><strong><a href="https://github.com/phanijsp/FileTransfer">FileTransferAndroid</a>:</strong> An Android app similar to ShareIT, developed to transfer files seamlessly between devices connected to the same network. It supports a variety of file types, making sharing files quick and efficient.</li>
+            <li><span class="project-icon"><i class="fa-brands fa-android" style="color: rgb(0, 0, 0);"></i></span><strong><a href="https://github.com/phanijsp/circle">Circle</a>:</strong> A group chat Android application built for campus job placement department, enabling users to communicate with multiple participants in group chats. Designed to facilitate smooth and reliable group communication.</li>
+            <li><span class="project-icon"><i class="fa-brands fa-android" style="color: #000000;"></i></span><strong><a href="https://github.com/deltaverse/SAF">SAF</a>:</strong> An Android app that helps users search and find where their favorite movies or TV shows are streaming online. It's a simple yet effective solution for navigating the vast landscape of streaming platforms.</li>
+            <li><span class="project-icon"><i class="fa-brands fa-android" style="color: #000000;"></i></span><strong><a>ToDo</a>:</strong> An Android app developed to help users keep track of daily tasks. It utilizes Room Database for data storage and retrieval, offering a simple and intuitive interface for managing to-do lists.</li>
+            <li><span class="project-icon"><i class="fa-brands fa-android" style="color: #000000;"></i></span><strong><a href="https://github.com/deltaverse/Audio2FA">Audio2FA</a>:</strong> An Android app developed as part of a research project to integrate audio data transfer with multi-factor authentication (MFA). This innovative approach to MFA enhances security through audio-based device pairing.</li>
+           
 
-            <li><i class="fa-brands fa-java"></i> <strong><a href="https://github.com/phanijsp/TorrentSearch_Spring">Torrent Search Spring Boot</a>:</strong> A microservice built using Java and Spring Boot to search multiple torrent sites. This service uses JSoup for web scraping, retrieves torrent data, and provides it in JSON format for consumers. It’s designed for high efficiency and fast response times.</li>
+            <li><span class="project-icon"><i class="fa-brands fa-java" style="color: #000000;"></i></span><strong><a href="https://github.com/phanijsp/TorrentSearch_Spring">Torrent Search Spring Boot</a>:</strong> A microservice built using Java and Spring Boot to search multiple torrent sites. This service uses JSoup for web scraping, retrieves torrent data, and provides it in JSON format for consumers. It’s designed for high efficiency and fast response times.</li>
     
             
-            <li><i class="fa-brands fa-java"></i> <strong><a href="https://github.com/phanijsp/PcRemoteClient">PcRemoteClient/Server</a>:</strong> A project mimicking TeamViewer functionality for devices on the same network. It allows remote control of devices within the network, providing a simple solution for remote access and device management.</li>
+            <li><span class="project-icon"><i class="fa-brands fa-java" style="color: #000000;"></i></span><strong><a href="https://github.com/phanijsp/PcRemoteClient">PcRemoteClient/Server</a>:</strong> A project mimicking TeamViewer functionality for devices on the same network. It allows remote control of devices within the network, providing a simple solution for remote access and device management.</li>
     
-            <li><i class="fa-brands fa-java"></i> <strong><a href="https://github.com/phanijsp/MiningMonitor/tree/master">Mining Monitor</a>:</strong> A command-line Java application to monitor cryptocurrency mining rigs over a local network or the Internet. It provides real-time tracking of mining operations, with an easy-to-use interface for managing rigs.</li>
+            <li><span class="project-icon"><i class="fa-brands fa-java" style="color: #000000;"></i></span><strong><a href="https://github.com/phanijsp/MiningMonitor/tree/master">Mining Monitor</a>:</strong> A command-line Java application to monitor cryptocurrency mining rigs over a local network or the Internet. It provides real-time tracking of mining operations, with an easy-to-use interface for managing rigs.</li>
     
             
            
            
-            <li><i class="fa-brands fa-java"></i> <strong><a href="https://github.com/phanijsp/Writer">Writer</a>:</strong> A simple notepad alternative built in Java using Swing for desktop applications. It offers basic text-editing functionality in a lightweight and easy-to-use interface.</li>
+            <li><span class="project-icon"><i class="fa-brands fa-java" style="color: #000000;"></i></span><strong><a href="https://github.com/phanijsp/Writer">Writer</a>:</strong> A simple notepad alternative built in Java using Swing for desktop applications. It offers basic text-editing functionality in a lightweight and easy-to-use interface.</li>
     
            
-            <li><i class="fa-brands fa-java"></i> <strong><a href="https://github.com/Patriot-Lab/lora-visualizer">LoRa Visualizer</a>:</strong> A visualization tool designed to enhance the analysis of LoRaWAN network simulations running on ns-3. It provides real-time visualization of network activities, aiding in better analysis and decision-making for IoT networks.</li>
+            <li><span class="project-icon"><i class="fa-brands fa-java" style="color: #000000;"></i></span><strong><a href="https://github.com/Patriot-Lab/lora-visualizer">LoRa Visualizer</a>:</strong> A visualization tool designed to enhance the analysis of LoRaWAN network simulations running on ns-3. It provides real-time visualization of network activities, aiding in better analysis and decision-making for IoT networks.</li>
     
-            <li><i class="fa-solid fa-tower-broadcast fa-fade"></i> <strong>Precision CyberAg:</strong> A research project enhancing a C++ LoRaWAN network simulator to support Class B and C devices. Conducted performance evaluations to assess scalability, contributing to advancements in IoT network simulations.</li>
-    
-             </ul>
-    </section>
-
-    <h2>Experience</h2>
-    <table border="3" cellpadding="6" cellspacing="0" width="100%">
-        <tr>
-            <th>Position</th>
-            <th>Company</th>
-            <th>Duration</th>
-        </tr>
-        <tr>
-            <td>Researcher</td>
-            <td>Madison Cyber Labs</td>
-            <td>Jan 2023 - Present</td>
-        </tr>
-        <tr>
-            <td>Software Developer</td>
-            <td>Tata Consultancy Services</td>
-            <td>Feb 2021 - Jan 2023</td>
-        </tr>
-        <tr>
-            <td>Software Developer Intern</td>
-            <td>Tata Consultancy Services</td>
-            <td>Jan 2020 - Apr 2020</td>
-        </tr>
-    </table>
-
-    <h2>Education</h2>
-    <table border="3" cellpadding="6" cellspacing="0" width="100%">
-        <tr>
-            <th>Degree</th>
-            <th>Institution</th>
-            <th>Duration</th>
-        </tr>
-        <tr>
-            <td>Master of Information Systems</td>
-            <td>Dakota State University</td>
-            <td>Jan 2023 - May 2024</td>
-        </tr>
-        <tr>
-            <td>B.Tech in Computer Science</td>
-            <td>Gayatri Vidya Parishad College of Engineering</td>
-            <td>July 2016 - Oct 2020</td>
-        </tr>
-    </table>
-
-    <head>
-        <!-- Add Font Awesome library for icons -->
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-    </head>
-    
-    
+            <li><span class="project-icon"><i class="fa-solid fa-tower-broadcast fa-fade" style="color: #000000;"></i></span><strong>Precision CyberAg:</strong> A research project enhancing a C++ LoRaWAN network simulator to support Class B and C devices. Conducted performance evaluations to assess scalability, contributing to advancements in IoT network simulations.</li>
     
 
-    <h2>Technical Skills</h2>
-    <table border="3" cellpadding="6" cellspacing="0" width="100%">
-        <tr>
-            <th>Category</th>
-            <th>Skills</th>
-        </tr>
-        <tr>
-            <td>Languages</td>
-            <td>Java, Kotlin, Python, C++, Linux bash scripting</td>
-        </tr>
-        <tr>
-            <td>Frameworks</td>
-            <td>Jetpack Compose, Spring, MyBatis, JavaFx, OpenCV</td>
-        </tr>
-        <tr>
-            <td>Databases</td>
-            <td>MySQL, SQLite, MongoDB</td>
-        </tr>
-        <tr>
-            <td>Cloud Services</td>
-            <td>Azure, Google Cloud, AWS</td>
-        </tr>
-        <tr>
-            <td>Tools & Platforms</td>
-            <td>Android Studio, IntelliJ, Visual Studio Code, Git/Github, Docker</td>
-        </tr>
-    </table>
+        </ul>
+    </div>
 
-    <h2>Publications</h2>
-    <ul>
-        <li><a href="https://ieeexplore.ieee.org/document/10609952">Exploring LoRaWAN Class B and C Devices</a></li>
-        <li><a href="https://ieeexplore.ieee.org/document/10609946">Integrating Audio Data Transfer and Multi-Factor Authentication</a></li>
-    </ul>
+    <div class="section">
+        <h2>Experience</h2>
+        <div class="table-container">
+            <table>
+                <tr>
+                    <th>Position</th>
+                    <th>Company</th>
+                    <th>Duration</th>
+                </tr>
+                <tr>
+                    <td>Researcher</td>
+                    <td>Madison Cyber Labs</td>
+                    <td>Jan 2023 - Present</td>
+                </tr>
+                <tr>
+                    <td>Software Developer</td>
+                    <td>Tata Consultancy Services</td>
+                    <td>Feb 2021 - Jan 2023</td>
+                </tr>
+                <tr>
+                    <td>Software Developer Intern</td>
+                    <td>Tata Consultancy Services</td>
+                    <td>Jan 2020 - Apr 2020</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        <div class="table-container">
+            <table>
+                <tr>
+                    <th>Degree</th>
+                    <th>Institution</th>
+                    <th>Year</th>
+                </tr>
+                <tr>
+                    <td>Master of Information Systems</td>
+                    <td>Dakota State University</td>
+                    <td>2023 - 2024</td>
+                </tr>
+                <tr>
+                    <td>B.Tech in Computer Science</td>
+                    <td>Gayatri Vidya Parishad College</td>
+                    <td>2016 - 2020</td>
+                </tr>
+            </table>
+        </div>
+    </div>
 
     <footer>
-        &copy; 2024 Aditya Jagatha
+        &copy; 2024 Aditya Jagatha | All Rights Reserved
     </footer>
 </body>
 </html>
-
-
-
-
-
