@@ -1,15 +1,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-689%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 126.5 kB Used in GitHub's Storage 
- > 
-> 🏆 255 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,21 +42,17 @@ Sunday                   371 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   5 mins              ██████████████████████░░░   87.83 % 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Kotlin                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Kotlin                   0 secs              █████████████████████████   99.16 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-VS Code                  6 mins              ████████████████████████░   95.78 % 
-Android Studio           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Android Studio           0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ProjectSE                6 mins              ████████████████████████░   95.78 % 
-sand-re                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+sand-re                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -78,5 +72,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/phanijsp/phanijsp/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2024 18:45:31 UTC
+ Last Updated on 31/10/2024 18:44:52 UTC
 <!--END_SECTION:waka-->
