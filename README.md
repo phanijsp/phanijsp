@@ -9,8 +9,6 @@
 
 > 📦 126.5 kB Used in GitHub's Storage 
  > 
-> 🏆 255 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 44 Public Repositories 
@@ -73,5 +71,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/phanijsp/phanijsp/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2024 18:43:56 UTC
+ Last Updated on 06/11/2024 18:43:55 UTC
 <!--END_SECTION:waka-->
