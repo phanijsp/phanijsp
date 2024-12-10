@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-711%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-705%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 126.5 kB Used in GitHub's Storage 
+> 📦 128.3 kB Used in GitHub's Storage 
  > 
 > 🏆 266 Contributions in the Year 2024
  > 
@@ -44,16 +44,22 @@ Sunday                   371 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   14 mins             █████████████████████████   100.00 % 
+Kotlin                   5 hrs 11 mins       ███████████████████████░░   93.02 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+Android Studio           5 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-V-Hash                   14 mins             █████████████████████████   100.00 % 
+Weather Tracker          5 hrs 16 mins       ████████████████████████░   94.31 % 
+WeatherTracker           17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+Mac                      5 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -73,5 +79,5 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/phanijsp/phanijsp/main/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2024 00:03:13 UTC
+ Last Updated on 10/12/2024 18:48:23 UTC
 <!--END_SECTION:waka-->
