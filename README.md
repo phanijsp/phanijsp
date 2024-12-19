@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-718%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-719%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -8,8 +8,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 128.3 kB Used in GitHub's Storage 
- > 
-> 🏆 271 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,5 +77,5 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/phanijsp/phanijsp/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2024 18:46:11 UTC
+ Last Updated on 19/12/2024 18:43:53 UTC
 <!--END_SECTION:waka-->
